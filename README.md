@@ -1,4 +1,4 @@
-# CE-ESY Assignments - Assignment 6
+# CE-ESY Assignments 
 
 ## Description
 This program implements a Circular Buffer (Ring Buffer) in C.  
